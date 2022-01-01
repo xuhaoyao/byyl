@@ -1,0 +1,16 @@
+{ Sample program
+  in TINY language -
+  computes factorial
+}
+read x; { input an integer }
+if ( x>=0 ) then 
+  for  fact = x downto 1 do 
+    fact = fact ^2 + x
+  enddo;
+  write fact 
+end;
+if (x <> 0) then 
+  if (x <= 0) then
+    write x
+  end
+end

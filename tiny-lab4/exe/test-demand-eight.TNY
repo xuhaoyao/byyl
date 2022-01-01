@@ -1,0 +1,4 @@
+read x; { input an integer }
+if (3 and 4 or 5)  then { don't compute if x <= 0 }
+  write x
+end

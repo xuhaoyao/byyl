@@ -1,0 +1,6 @@
+read x; 
+if ( x<0 ) then  { x >= 0 }
+  fact = x + 11;
+  x = 1;
+  write fact  { output factorial of x }
+end
