@@ -253,6 +253,7 @@ void nfaManager::union_(){
 }
 ```
 
+![$~}UYPU VM%~6AU4{8C7VMF](https://user-images.githubusercontent.com/56396192/147851999-3009df80-3c21-40f1-995d-43633a5ae576.png)
 
 
 #### connection()
@@ -293,7 +294,7 @@ void nfaManager::kleene_star(){
 }
 ```
 
-![image-20211231114846228](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211231114846228.png)
+![image](https://user-images.githubusercontent.com/56396192/147852005-4297f82c-9e5c-4938-b33e-78720807a731.png)
 
 
 
@@ -414,7 +415,7 @@ void nfaManager::getNeighbor(int v,char c,set<int> states){
 
 #### 例子分析
 
-![image-20211231170730140](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211231170730140.png)
+![image](https://user-images.githubusercontent.com/56396192/147852009-f44f793d-dca0-4f52-9197-1523c171e2a3.png)
 
 首先被分成 A(接受状态)，N（非终止状态）
 
