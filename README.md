@@ -435,7 +435,7 @@ A：`{q3, q5}`
 
 `最后结果:{q0} {q1} {q2, q4} {q3, q5}`
 
-![image-20211231171658159](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211231171658159.png)
+![image](https://user-images.githubusercontent.com/56396192/147852061-83919fa7-06f1-4fb0-a6f9-ca8852a89841.png)
 
 
 
