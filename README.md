@@ -680,7 +680,7 @@ void nfaManager::getCcode(int start, vector<string> &lines)
  （6）对输入的句子进行最左推导分析，系统应该提供界面让用户可以输入要分析的句子以及方便用户查看最左推导的每一步推导结果。【可以采用表格的形式呈现推导的每一步结果】
  （7）应该书写完善的软件文档
 
-![image-20220111200734601](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220111200734601.png)
+![image-20220111200734601](https://raw.githubusercontent.com/xuhaoyao/images/master/img/image-20220111200734601.png)
 
 
 
